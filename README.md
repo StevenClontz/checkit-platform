@@ -1,2 +1,7 @@
-# checkit-platform
-README overviewing the CheckIt Platform
+# CheckIt Platform
+
+## Viewer
+
+## Dashboard
+
+TODO
