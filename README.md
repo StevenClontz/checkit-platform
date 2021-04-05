@@ -32,7 +32,7 @@ a supported LMS.
 This dashboard is optimized for use on the [CoCalc](https://cocalc.com) web app and may
 be used via the quickstart instructions above without creating an account or purchasing
 a subscription to any service. However, the CoCalc free trial is limited in its
-funcionality and frequent users of the Dashboard may benefit from creating an account.
+functionality and frequent users of the Dashboard may benefit from creating an account.
 
 - [CheckIt Dashboard on GitHub](https://github.com/StevenClontz/checkit)
 
@@ -50,3 +50,10 @@ Our community of authors and developers is organized in the #checkit-app channel
 [Mastery Grading Slack workspace](https://bit.ly/join-mastery-grading).
 We're also on Twitter [@CheckItProblems](https://twitter.com/CheckItProblems).
 Come join the conversation!
+
+### 2021 Summer Authoring Workshop
+
+The community will gather on Zoom this summer between June 7-10 for a free workshop
+aimed at getting new CheckIt authors up and running with the platform. Complete
+[this form](https://docs.google.com/forms/d/e/1FAIpQLScrCdIFrb1DDC1Ynt58NP-BwfBrRnsRnBC0KdkDYJZhSiVBhQ/viewform)
+to be looped in.
