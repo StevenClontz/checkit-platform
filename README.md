@@ -64,7 +64,7 @@ Check your email for the Zoom link.
 
 On Monday, we will focus on introducing everyone to the platform and getting everyone set up to use the free CoCalc.com cloud environment to author CheckIt exercises. 
 
-- **Volunteers needed:** I'd like to limit the 9-12 morning block to a small subset of folks to serve as "trainers". Then we can split into breakout rooms to get all participants up to speed in small groups during the 1-4 block. You're likely a good fit for this role as long as you have a basic idea of how to write Python code.
+- **Volunteers needed:** I'd like to limit the 9-12 morning block to a small subset of folks to serve as "trainers". Then we can split into breakout rooms to get all participants up to speed in small groups during the 1-4 block. You're likely a good fit for this role as long as you have a basic idea of how to write Python code - by design, the CheckIt Platform doesn't require a very advanced programming background to be productive!
 
 On Tuesday, we will work in groups to develop CheckIt exercises for single-variable calculus and linear algebra. These exercises will be used to support the https://sites.google.com/southalabama.edu/tbil NSF project on Team-Based Inquiry Learning (TBIL) that's funding me this summer. As part of that work, my team will be curating a collection of learning outcomes and sample exercises aligned to those outcomes. So for the workshop, participants will work together in small groups to create CheckIt versions of these exercises. Since these exercises will be well-defined going into the workshop, we'll be able to spend Tuesday focusing on the technical training of how to use the CheckIt Dashboard. These exercises will be available for use by anyone (not just TBIL participants) this fall.
 
