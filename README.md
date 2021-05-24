@@ -59,6 +59,9 @@ now closed.
 
 #### Workshop Outline
 
+We will meet using Zoom from 9-12 and 1-4 Central Daylight Time on June 7-9.
+Check your email for the Zoom link.
+
 On Monday, we will focus on introducing everyone to the platform and getting everyone set up to use the free CoCalc.com cloud environment to author CheckIt exercises. 
 
 - **Volunteers needed:** I'd like to limit the 9-12 morning block to a small subset of folks to serve as "trainers". Then we can split into breakout rooms to get all participants up to speed in small groups during the 1-4 block. You're likely a good fit for this role as long as you have a basic idea of how to write Python code.
