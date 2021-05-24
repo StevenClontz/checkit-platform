@@ -54,6 +54,21 @@ Come join the conversation!
 ### 2021 Summer Authoring Workshop
 
 The community will gather on Zoom this summer between June 7-10 for a free workshop
-aimed at getting new CheckIt authors up and running with the platform. Complete
-[this form](https://docs.google.com/forms/d/e/1FAIpQLScrCdIFrb1DDC1Ynt58NP-BwfBrRnsRnBC0KdkDYJZhSiVBhQ/viewform)
-to be looped in.
+aimed at getting new CheckIt authors up and running with the platform. Registration is
+now closed.
+
+#### Workshop Outline
+
+On Monday, we will focus on introducing everyone to the platform and getting everyone set up to use the free CoCalc.com cloud environment to author CheckIt exercises. 
+
+- **Volunteers needed:** I'd like to limit the 9-12 morning block to a small subset of folks to serve as "trainers". Then we can split into breakout rooms to get all participants up to speed in small groups during the 1-4 block. You're likely a good fit for this role as long as you have a basic idea of how to write Python code.
+
+On Tuesday, we will work in groups to develop CheckIt exercises for single-variable calculus and linear algebra. These exercises will be used to support the https://sites.google.com/southalabama.edu/tbil NSF project on Team-Based Inquiry Learning (TBIL) that's funding me this summer. As part of that work, my team will be curating a collection of learning outcomes and sample exercises aligned to those outcomes. So for the workshop, participants will work together in small groups to create CheckIt versions of these exercises. Since these exercises will be well-defined going into the workshop, we'll be able to spend Tuesday focusing on the technical training of how to use the CheckIt Dashboard. These exercises will be available for use by anyone (not just TBIL participants) this fall.
+
+On Wednesday, we will form ad hoc working groups to begin development of CheckIt banks for other courses (and those who are interested can continue work on calculus and linear algebra as needed). Ultimately, my goal is that every participant will at least be enabled by the end of Wednesday to develop CheckIt banks for their personal use, but also connect folks together to develop community-maintained banks that can be made available to the public in addition to the work we'll produce Tuesday.
+
+We will have 50-minute presentations and/or discussions at 9am and 1pm each day. Some of that will be direct training, but other topics will include mastery grading (a common use-case for the CheckIt platform), feature requests for the platform, a vision for our community and the workflow for peer review of public banks, and possible scholarship/funding opportunities related to this work.
+
+- **Volunteer needed:** would anyone like to lead the presentation on mastery grading? This can be a rehash of a presentation you've given for other audiences.
+
+*Email <sclontz@southalabama.edu> if you are participating in the workshop and can volunteer for a role described above.*
