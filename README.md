@@ -63,15 +63,35 @@ We will meet using Zoom from 9-12 and 1-4 Central Daylight Time on June 7-9.
 Check your email for the Zoom link.
 
 - Before the Workshop
-    - YouTube tutorial on the CheckIt Platform
-    - Link TBA
+    - [YouTube tutorial on the CheckIt Platform](https://youtu.be/W4_zEmmSDIs)
 - Monday June 7
     - Check email for a survey with your availablity to attend one of the following
       sessions.
     - 9:00-10:30 Welcome Q&A Session 1
+        - Chrissy S
+        - Jean-Sebastien T
+        - Abby N
+        - Neil M
+        - Meredith S
+        - Jeff F
     - 10:45-11:45 Welcome Q&A Session 2
+        - Tien C
+        - Katie A
+        - Jennifer N
+        - Dave R
+        - Justin A
     - 1:00-2:30 Welcome Q&A Session 3
+        - Reeve H
+        - Kate O
+        - Peter K
+        - Sarah N
+        - Spencer B
     - 2:45-3:45 Welcome Q&A Session 4
+        - Laura K
+        - Hanna B
+        - Christine L
+        - Theron H
+        - Erin K
 - Tuesday June 8
     - 9:00-9:50
         - Mastery Grading and the CheckIt Platform
