@@ -31,3 +31,12 @@ def generator():
 
 Note that CheckIt will automatically convert special SageMath objects such as the
 function `f` to LaTeX for insertion into exercise templates.
+
+## Learning SageMath
+
+The brief [Tour of Sage](https://doc.sagemath.org/html/en/a_tour_of_sage/index.html)
+and more detailed tutorial [Guided Tour](https://doc.sagemath.org/html/en/tutorial/tour.html)
+are good places to get started learning how to leverage SageMath to represent mathematics.
+
+The [Random Numbers with Python](https://doc.sagemath.org/html/en/reference/misc/sage/misc/prandom.html)
+is a good reference for producing randomized elements.
