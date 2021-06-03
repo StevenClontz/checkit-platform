@@ -118,3 +118,75 @@ for humans to describe figures that is understood by all the different
 applications that use CheckIt (LaTeX, LMSs, web apps, etc). There are
 workarounds, but I don't want to rush into an inelegant solution that
 will cause authors headaches down the road.
+
+
+## Mustache
+
+To describe randomized exercises, a programming language is used
+to generate the randomized data to be inserted into a template. The
+widely-supported Mustache templating system is used to do this.
+
+Full documentation on Mustache is available at
+[https://mustache.github.io/](https://mustache.github.io/mustache.5.html).
+Briefly, we cover a simple example below.
+
+Suppose that your generator produced the following "JSON" data
+object.
+
+```json
+{
+    "function": "x^2+1",
+    "values": [
+        {"x": "1", "fx": "2"},
+        {"x": "-3", "fx": "10"}
+    ]
+}
+```
+
+Then values can be inserted using mustaches (curly braces) `{{key}}`,
+and lists may be looped over by wrapping with the pound sign `{{#key}}`
+and forward slash `{{/key}}`.
+
+```xml
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>For each value of <m>x</m>, find <m>f(x)</m>.</p>
+        <me>f(x)={{function}}</me>
+        <ol>
+            {{#values}}
+                <li><m>{{x}}</m></li>
+            {{/values}}
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            {{#values}}
+                <li><m>{{fx}}</m></li>
+            {{/values}}
+        </ol>
+    </answer>
+</exercise>
+```
+
+This would produce the following result.
+
+```xml
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>For each value of <m>x</m>, find <m>f(x)</m>.</p>
+        <me>f(x)=x^2+1</me>
+        <ol>
+                <li><m>1</m></li>
+                <li><m>-3</m></li>
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+                <li><m>2</m></li>
+                <li><m>10</m></li>
+        </ol>
+    </answer>
+</exercise>
+```
