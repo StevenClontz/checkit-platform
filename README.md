@@ -80,12 +80,14 @@ Check your email for the Zoom link.
         - Jennifer N
         - Dave R
         - Justin A
+        - Briana B
     - 1:00-2:30 Welcome Q&A Session 3
         - Reeve H
         - Kate O
         - Peter K
         - Sarah N
         - Spencer B
+        - Sharona K
     - 2:45-3:45 Welcome Q&A Session 4
         - Laura K
         - Hanna B
