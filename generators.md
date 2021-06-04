@@ -32,6 +32,8 @@ def generator():
 Note that CheckIt will automatically convert special SageMath objects such as the
 function `f` to LaTeX for insertion into exercise templates.
 
+Note that this function cannot use any `print()` statements!
+
 ## Learning SageMath
 
 The brief [Tour of Sage](https://doc.sagemath.org/html/en/a_tour_of_sage/index.html)
