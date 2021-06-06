@@ -99,12 +99,12 @@ Check your email for the Zoom link.
         - Mastery Grading and the CheckIt Platform
         - Presentation by Sharona Krinsky
     - 10:00-noon
-        - Working groups on Calculus and Linear Algebra banks
+        - Working groups on Calculus bank
     - 1:00-1:50
         - Feature requests for CheckIt Platform
         - Open Discussion
     - 2:00-4:00
-        - Working groups on Calculus and Linear Algebra banks
+        - Working groups on Calculus bank
 - Wednesday June 9
     - 9:00-9:50
         - CheckIt Community and Peer Review
