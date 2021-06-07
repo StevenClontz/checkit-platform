@@ -64,6 +64,8 @@ Check your email for the Zoom link.
 
 - Before the Workshop
     - [YouTube tutorial on the CheckIt Platform](https://youtu.be/W4_zEmmSDIs)
+    - <https://github.com/StevenClontz/checkit-platform/blob/main/generators.md>
+    - <https://github.com/StevenClontz/checkit-platform/blob/main/templates.md>
 - Monday June 7
     - Check email for a survey with your availablity to attend one of the following
       sessions.
