@@ -90,7 +90,7 @@ Check your email for the Zoom link.
         - Sarah N
         - Spencer B
         - Sharona K
-    - 2:30-3:45 Welcome Q&A Session 4
+    - 2:45-4:00 Welcome Q&A Session 4
         - Laura K
         - Hanna B
         - Christine L
