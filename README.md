@@ -76,21 +76,21 @@ Check your email for the Zoom link.
         - Neil M
         - Meredith S
         - Jeff F
-    - 10:45-11:45 Welcome Q&A Session 2
+    - 10:45-12:00 Welcome Q&A Session 2
         - Tien C
         - Katie A
         - Jennifer N
         - Dave R
         - Justin A
         - Briana B
-    - 1:00-2:30 Welcome Q&A Session 3
+    - 1:00-2:15 Welcome Q&A Session 3
         - Reeve H
         - Kate O
         - Peter K
         - Sarah N
         - Spencer B
         - Sharona K
-    - 2:45-3:45 Welcome Q&A Session 4
+    - 2:30-3:45 Welcome Q&A Session 4
         - Laura K
         - Hanna B
         - Christine L
