@@ -110,6 +110,15 @@ Comments in the source may be added as
 </statement>
 ```
 
+### Special Characters `<`, `>`, `&`
+
+Three characters have special meaning inside XML: `<`, `>`, `&`.
+However they can be inserted using the following codes:
+
+- `&lt;` for `<`
+- `$gt;` for `>`
+- `&amp;` for `&`
+
 ### Images
 
 Images are not currently implemented, but are planned for the future.
