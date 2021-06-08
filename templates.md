@@ -199,3 +199,34 @@ This would produce the following result.
     </answer>
 </exercise>
 ```
+
+### Choosing scenarios
+
+A common pattern in word problems is having several scenarios to choose from.
+Here's a recommended way to implement this.
+
+First, have your generator randomly choose which scenario your exercise will
+use:
+
+```python
+def generator():
+    random_scenario = choice(["apples","bananas"])
+    return {
+        "scenario": {random_scenario: True},
+    }
+```
+
+Then you can change how your template looks based on scenario as follows:
+
+```xml
+<statement>
+    {{#scenario}}
+        {{#apples}}
+            <p>I like apples.</p>
+        {{/apples}}
+        {{#bananas}}
+            <p>I hate bananas.</p>
+        {{/bananas}}
+    {{/scenario}}
+</statement>
+```
