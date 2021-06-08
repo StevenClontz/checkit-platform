@@ -42,3 +42,17 @@ are good places to get started learning how to leverage SageMath to represent ma
 
 The [Random Numbers with Python](https://doc.sagemath.org/html/en/reference/misc/sage/misc/prandom.html)
 is a good reference for producing randomized elements.
+
+## Tips and Tricks
+
+Sage is sometimes over-eager to factor when (say) multiplying, but this can be overridden.
+
+```
+sage: x^2*(2*x+2)
+2*(x + 1)*x^2
+```
+
+```
+sage: (x^2).mul(2*x+2,hold=True)
+(2*x + 2)*x^2
+```
