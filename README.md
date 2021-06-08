@@ -110,6 +110,7 @@ Check your email for the Zoom link.
 - Wednesday June 9
     - 9:00-9:50
         - CheckIt Community and Peer Review
+        - Bank Authoring reflection
         - Open Discussion
     - 10:00-noon
         - Form working groups to collaborate on other CheckIt banks
