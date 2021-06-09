@@ -43,6 +43,11 @@ are good places to get started learning how to leverage SageMath to represent ma
 The [Random Numbers with Python](https://doc.sagemath.org/html/en/reference/misc/sage/misc/prandom.html)
 is a good reference for producing randomized elements.
 
+### CheckIt-exclusive functionality
+
+- `shuffled_equation(*terms)` produces an equation with terms randomly shuffled to each side. For example,
+  `shuffled_equation(x^2,1)` might produce `x^2+1==0`, `x^2==-1`, `1==-x^2`, or `0==-x^2-1`.
+
 ## Tips and Tricks
 
 Sage is sometimes over-eager to factor when (say) multiplying, but this can be overridden.
