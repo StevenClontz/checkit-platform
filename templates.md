@@ -230,3 +230,32 @@ Then you can change how your template looks based on scenario as follows:
     {{/scenario}}
 </statement>
 ```
+
+### True/False
+
+If you need to display different content based on whether certain criteria apply,
+check these criteria in your generator and pass an appropriate True/False boolean
+as demonstrated below:
+
+```python
+def generator():
+    random_number = randrange(10)
+    is_even = bool(random_number % 2 == 0) # returns True or False
+    return {
+        "number": random_number,
+        "even": is_even,
+    }
+```
+
+Then this boolean value can be checked using `{{#key}}show if true{{/key}}{{^key}}show if false{{/key}}`:
+
+```xml
+<answer>
+    {{#even}}
+        <p>{{number}} is even.</p>
+    {{/even}}
+    {{^even}}
+        <p>{{number}} is odd.</p>
+    {{/even}}
+</answer>
+```
