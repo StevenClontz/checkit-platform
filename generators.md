@@ -50,7 +50,9 @@ is a good reference for producing randomized elements.
 
 ## Tips and Tricks
 
-Sage is sometimes over-eager to factor when (say) multiplying, but this can be overridden.
+### Don't oversimplify multiplication
+
+Sage is sometimes over-eager to factor when multiplying, but this can be overridden.
 
 ```
 sage: x^2*(2*x+2)
@@ -61,3 +63,12 @@ sage: x^2*(2*x+2)
 sage: (x^2).mul(2*x+2,hold=True)
 (2*x + 2)*x^2
 ```
+
+### Bugfixing
+
+Errors caused by generator code can be difficult to bugfix. To get a clearer traceback of your error,
+copy-paste your generator code into a code cell at <https://checkit.clontz.org> and add a final
+line with `generator()` to test things.
+
+![image](https://user-images.githubusercontent.com/1559632/126003922-c30686d5-93de-4a8f-bca7-4ef2ec7dcbb3.png)
+
