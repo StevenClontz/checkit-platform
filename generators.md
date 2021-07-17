@@ -86,7 +86,7 @@ It's possible (but not obvious how) to edit generators and templates side-by-sid
 
 - Type `open banks/BANK/outcomes/XYZ.xml` (replacing `BANK` with your bank and `XYZ` with your outcome) and hit Enter.
 
-![image](https://user-images.githubusercontent.com/1559632/126040666-5e70c041-ea33-4254-a17a-1eb9f859c88f.png)
+![image](https://user-images.githubusercontent.com/1559632/126040957-517a198d-7304-40f1-9d3c-478ff59951ba.png)
 
 - Repeat with `open banks/BANK/outcomes/XYZ.sage`. The template and generator should now be open in separate panes, and the terminal pane may be closed.
 
