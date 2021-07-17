@@ -74,22 +74,22 @@ line with `generator()` to test things.
 
 ### Side by side editing in CoCalc
 
-It's possible (but not obvious how) to edit generators and templates side-by-side in CoCalc.
+It's possible (but not obvious how) to edit generators and templates side-by-side with the dashboard in CoCalc.
 
-- Open the generator file `XYZ.sage` (replacing `XYZ` with your outcome), then click the vertical split button in the toolbar.
+- Open the dashboard, then click the horizontal split button in the toolbar.
 
-![image](https://user-images.githubusercontent.com/1559632/126040618-b7f34549-dff0-461a-aa49-e60cd02292b5.png)
+![image](https://user-images.githubusercontent.com/1559632/126040861-cb4c0e8b-5c3d-43e2-81e4-8a39369ec32d.png)
 
 - Switch one of the panes to "Terminal"
 
-![image](https://user-images.githubusercontent.com/1559632/126040636-918053de-602e-43ed-8bec-e8958ed88cf8.png)
+![image](https://user-images.githubusercontent.com/1559632/126040864-3d13ae69-9c75-4570-9b0b-63b685ab5933.png)
 
-- Type `open XYZ.xml` (replacing `XYZ` with your outcome) and hit Enter.
+- Type `open banks/BANK/outcomes/XYZ.xml` (replacing `BANK` with your bank and `XYZ` with your outcome) and hit Enter.
 
 ![image](https://user-images.githubusercontent.com/1559632/126040666-5e70c041-ea33-4254-a17a-1eb9f859c88f.png)
 
-- The template `XYZ.xml` is now available in a separate pane, and the terminal pane may be closed.
+- Repeat with `open banks/BANK/outcomes/XYZ.sage`. The template and generator should now be open in separate panes, and the terminal pane may be closed.
 
-![image](https://user-images.githubusercontent.com/1559632/126040686-6714a49c-6f9b-4d4a-a082-d9215da83692.png)
+![image](https://user-images.githubusercontent.com/1559632/126040904-0b8370ae-55f9-452e-a588-f5d87f4d10e9.png)
 
 
