@@ -72,3 +72,24 @@ line with `generator()` to test things.
 
 ![image](https://user-images.githubusercontent.com/1559632/126003922-c30686d5-93de-4a8f-bca7-4ef2ec7dcbb3.png)
 
+### Side by side editing in CoCalc
+
+It's possible (but not obvious how) to edit generators and templates side-by-side in CoCalc.
+
+- Open the generator file `XYZ.sage` (replacing `XYZ` with your outcome), then click the vertical split button in the toolbar.
+
+![image](https://user-images.githubusercontent.com/1559632/126040618-b7f34549-dff0-461a-aa49-e60cd02292b5.png)
+
+- Switch one of the panes to "Terminal"
+
+![image](https://user-images.githubusercontent.com/1559632/126040636-918053de-602e-43ed-8bec-e8958ed88cf8.png)
+
+- Type `open XYZ.xml` (replacing `XYZ` with your outcome) and hit Enter.
+
+![image](https://user-images.githubusercontent.com/1559632/126040666-5e70c041-ea33-4254-a17a-1eb9f859c88f.png)
+
+- The template `XYZ.xml` is now available in a separate pane, and the terminal pane may be closed.
+
+![image](https://user-images.githubusercontent.com/1559632/126040686-6714a49c-6f9b-4d4a-a082-d9215da83692.png)
+
+
