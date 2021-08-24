@@ -1,5 +1,7 @@
 # Installing the CheckIt Platform locally
 
+CheckIt requires Python version 3.6 or higher.
+
 ## Windows
 
 ### Windows Subsystem for Linux
