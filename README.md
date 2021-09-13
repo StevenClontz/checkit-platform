@@ -22,8 +22,8 @@ No accounts or subscriptions are necessary to use the full power of the CheckIt 
 
 - Quickstart instructions:
     - [Open this CoCalc project in your browser](https://cocalc.com/share/00854508a0fa6e8a193cbc90aff10b9dd7f446b4/checkit/?viewer=share)
-    - Click the green "Open with one click!" button and let the project load.
-    - Open `dashboard.ipynb` and **▶ Run** the code cell to access the graphical user interface.
+    - Click the small "Edit" link and let the project load (this takes some time using the free trial).
+    - Open `dashboard.ipynb` and **▶ Run** the code cell to access the graphical user interface (this also takes some time using the free trial).
 
 The CheckIt Dashboard is a Python application that reads code from CheckIt outcome banks
 (see below) and produces files that can be read by the CheckIt Viewer or imported into
