@@ -119,6 +119,10 @@ However they can be inserted using the following codes:
 - `$gt;` for `>`
 - `&amp;` for `&`
 
+TIP: we've noticed that Moodle output is broken when using `&lt;` unless
+it's surrounded with whitespace. That is, it's better to write
+`x &lt; 0` than `x&lt;0`.
+
 ### Images
 
 Images are not currently implemented, but are planned for the future.
