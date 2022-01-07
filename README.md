@@ -47,7 +47,7 @@ in the Checkit Dashboard on CoCalc.
 ## Community
 
 Our community of authors and developers is organized in the #checkit-app channel of the
-[Mastery Grading Slack workspace](https://bit.ly/join-mastery-grading).
+[Alternative Grading Slack workspace](https://bit.ly/join-mastery-grading).
 We're also on Twitter [@CheckItProblems](https://twitter.com/CheckItProblems).
 Come join the conversation!
 
